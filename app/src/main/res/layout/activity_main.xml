@@ -17,8 +17,10 @@
 
     <Button
         android:id="@+id/btn"
+        android:layout_width="204dp"
+        android:layout_height="34dp"
         android:text="test"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="35dp"/>
 
 </android.support.constraint.ConstraintLayout>
